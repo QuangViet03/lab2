@@ -1,6 +1,6 @@
-# 📱 Máy Tính Flutter (Flutter Calculator App)
+# Máy Tính Flutter (Flutter Calculator App)
 
-Ứng dụng máy tính di động đơn giản được xây dựng bằng **Flutter**, theo đúng yêu cầu của Lab 2 – Simple Mobile Calculator.
+Ứng dụng máy tính di động đơn giản được xây dựng bằng **Flutter**
 
 Ứng dụng hỗ trợ các phép toán cơ bản, quản lý trạng thái, bố cục giao diện chuẩn Figma và xử lý lỗi người dùng.
 
@@ -9,10 +9,7 @@
 ## Phiên Bản Sử Dụng
 
 - **Flutter:** 3.38.2  
-- **Dart:** 3.x  
-- **SDK Android:** 36.1.0  
-- **Thiết bị test:** Windows + Chrome  
-
+- **Dart:** 3.10.0 
 ---
 
 ## Tính Năng Chính
