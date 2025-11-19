@@ -1,17 +1,22 @@
-# lab2
+# Máy Tính Flutter
 
-A new Flutter project.
+Ứng dụng máy tính di động đơn giản được xây dựng bằng Flutter.
 
-## Getting Started
+## Tính Năng Đã Triển Khai
 
-This project is a starting point for a Flutter application.
+### Các Phép Tính Cơ Bản
+- Cộng (+), Trừ (-), Nhân (×), Chia (÷)
+- Tính phần trăm (%)
+- Đổi dấu âm/dương (±)
+- Số thập phân (.)
 
-A few resources to get you started if this is your first Flutter project:
+### Giao Diện
+- Thiết kế theo Figma với màu sắc #2D3142, #4F5D75, #EF8354
+- Hiển thị phương trình và kết quả
+- Bố cục nút bấm khoa học
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# lab2" 
+### Chức Năng Khác
+- Xóa tất cả (C)
+- Xóa ký tự cuối (CE)
+- Xử lý lỗi chia cho 0
+- Hỗ trợ số âm và số thập phân
