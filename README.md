@@ -41,7 +41,7 @@
 ---
 
 ## Screenshots
-
-Dán ảnh vào thư mục:  
+- Đầu vào:
 ![Input](./screenshots/input.png)
+- Kết quả:
 ![Kết quả](./screenshots/ketqua.png)
